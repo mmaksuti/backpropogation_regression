@@ -1,5 +1,5 @@
-# neural_netwok_interpolation
+# backpropogation_regression
 
-Function interpolation using neural networks. Supports linear, quadratic and rational (of the form a/x+b) functions.
+Function regression using backpropogation. Supports linear, quadratic and rational (of the form a/x+b) functions.
 
 Written in 2018.
